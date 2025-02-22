@@ -184,4 +184,3 @@ plt.xlabel('Age')
 plt.ylabel('Spending Score (1-100)')
 plt.show(block=True)
 
-
